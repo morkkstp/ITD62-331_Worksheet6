@@ -1,0 +1,144 @@
+{
+  "dht11value": [
+    {
+      "timestamp": "18-11-2023 21:05:00",
+      "humidity": 80,
+      "temperature": 26.39999962,
+      "ip_Address": "192.168.1.112",
+      "id": 1
+    },
+    {
+      "timestamp": "18-11-2023 21:05:03",
+      "humidity": 79,
+      "temperature": 26.20000076,
+      "ip_Address": "192.168.1.112",
+      "id": 2
+    },
+    {
+      "timestamp": "18-11-2023 21:05:06",
+      "humidity": 79,
+      "temperature": 26.39999962,
+      "ip_Address": "192.168.1.112",
+      "id": 3
+    },
+    {
+      "timestamp": "18-11-2023 21:05:09",
+      "humidity": 79,
+      "temperature": 26.39999962,
+      "ip_Address": "192.168.1.112",
+      "id": 4
+    },
+    {
+      "timestamp": "18-11-2023 21:05:12",
+      "humidity": 79,
+      "temperature": 26.39999962,
+      "ip_Address": "192.168.1.112",
+      "id": 5
+    },
+    {
+      "timestamp": "18-11-2023 21:05:15",
+      "humidity": 78,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 6
+    },
+    {
+      "timestamp": "18-11-2023 21:05:18",
+      "humidity": 78,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 7
+    },
+    {
+      "timestamp": "18-11-2023 21:05:21",
+      "humidity": 78,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 8
+    },
+    {
+      "timestamp": "18-11-2023 21:05:24",
+      "humidity": 78,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 9
+    },
+    {
+      "timestamp": "18-11-2023 21:05:27",
+      "humidity": 78,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 10
+    },
+    {
+      "timestamp": "18-11-2023 21:05:30",
+      "humidity": 78,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 11
+    },
+    {
+      "timestamp": "18-11-2023 21:05:33",
+      "humidity": 77,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 12
+    },
+    {
+      "timestamp": "18-11-2023 21:05:36",
+      "humidity": 77,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 13
+    },
+    {
+      "timestamp": "18-11-2023 21:05:39",
+      "humidity": 77,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 14
+    },
+    {
+      "timestamp": "18-11-2023 21:05:42",
+      "humidity": 77,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 15
+    },
+    {
+      "timestamp": "18-11-2023 21:05:45",
+      "humidity": 77,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 16
+    },
+    {
+      "timestamp": "18-11-2023 21:05:49",
+      "humidity": 77,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 17
+    },
+    {
+      "timestamp": "18-11-2023 21:05:51",
+      "humidity": 77,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 18
+    },
+    {
+      "timestamp": "18-11-2023 21:05:54",
+      "humidity": 77,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 19
+    },
+    {
+      "timestamp": "18-11-2023 21:05:57",
+      "humidity": 77,
+      "temperature": 26.5,
+      "ip_Address": "192.168.1.112",
+      "id": 20
+    }
+  ]
+}
